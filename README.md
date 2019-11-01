@@ -1,5 +1,5 @@
 # hello-world
-first seeetting up
+first setting up
 
 Hello
 I am here
